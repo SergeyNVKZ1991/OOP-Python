@@ -149,4 +149,5 @@ def grade_av_lecturer(lecturer_list, course):
 
 
 print(grade_av_student(student_list, 'Python'))
+
 print(grade_av_lecturer(lecturer_list, 'Python'))
